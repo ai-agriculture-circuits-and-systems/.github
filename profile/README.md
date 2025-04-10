@@ -10,7 +10,7 @@ Our team is keen to explore the transformative applications of AI across various
 
 ## [Direction #1. **Precision Farming and Resource Optimization**](../README_DIRECTION1.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Yield Prediction**: AI models analyze climate, soil, and crop data to predict optimal yields.
   - **Task**: **Prediction**
 - **Smart Irrigation**: AI-powered systems adjust irrigation schedules based on soil moisture and weather forecasts.
@@ -29,9 +29,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #2. **Crop Disease Detection and Pest Management**
+## [Direction #2. **Crop Disease Detection and Pest Management**](../README_DIRECTION2.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Disease Detection**: AI-based computer vision models identify diseases from plant images.
   - **Task**: **Classification, Object Detection**
 - **Pest Monitoring**: AI-driven traps and drones scan fields to detect and predict pest outbreaks.
@@ -49,9 +49,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #3. **Livestock Monitoring and Management**
+## [Direction #3. **Livestock Monitoring and Management**](../README_DIRECTION3.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Health Monitoring**: AI tracks animals' health through vision and sensor data to detect diseases or stress early.
   - **Task**: **Classification, Anomaly Detection**
 - **Automated Feeding**: AI systems dispense tailored feed based on each animal’s requirements.
@@ -69,9 +69,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #4. **Supply Chain and Agricultural Logistics Optimization**
+## [Direction #4. **Supply Chain and Agricultural Logistics Optimization**](../README_DIRECTION4.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Demand Forecasting**: AI models predict crop yields and market demand to optimize storage and distribution.
   - **Task**: **Prediction**
 - **Inventory Management**: AI assists in monitoring supply chain needs, reducing waste and inefficiencies.
@@ -89,9 +89,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #5. **Sustainable Agriculture and Environmental Impact**
+## [Direction #5. **Sustainable Agriculture and Environmental Impact**](../README_DIRECTION5.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Soil Health Monitoring**: AI detects soil degradation and suggests restoration practices.
   - **Task**: **Prediction, Classification**
 - **Carbon Footprint Reduction**: AI optimizes resource usage, thereby reducing emissions from agriculture.
@@ -109,9 +109,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #6. **AI in Agricultural Policy and Decision Support**
+## [Direction #6. **AI for Agricultural Policy, Decision Support, and Climate Impact**](../README_DIRECTION6.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Data-Driven Policy**: AI is used by policymakers to analyze agricultural trends and implement effective regulations.
   - **Task**: **Prediction, Analysis**
 - **Supply Chain Resilience**: AI models forecast and mitigate the impact of global disruptions on food security and agricultural markets.
@@ -128,9 +128,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #7. **Automated and Autonomous Farming**
+## [Direction #7. **Automated and Autonomous Farming**](../README_DIRECTION7.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Autonomous Harvesting**: AI-powered robots perform autonomous harvesting and sorting, reducing labor dependence.
   - **Task**: **Object Detection, Segmentation**
 - **Autonomous Tractors and Drones**: These devices perform seeding, irrigation, and pest control autonomously.
@@ -146,9 +146,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #8. **AI-Driven Farm Management Platforms**
+## [Direction #8. **AI-Driven Farm Management Platforms**](../README_DIRECTION8.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Farm Management**: AI integrates various farming tasks (planting, fertilization, irrigation) into a seamless platform.
   - **Task**: **Prediction, Decision Support**
 - **Predictive Analytics**: AI helps farmers make decisions based on historical data and real-time inputs.
@@ -164,9 +164,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #9. **AI in Crop Breeding and Genetic Research**
+## [Direction #9. **AI in Crop Breeding and Genetic Research**](../README_DIRECTION9.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Genetic Selection**: AI helps farmers select the best genetics for breeding based on predictive models.
   - **Task**: **Prediction, Classification**
 - **Gene Editing**: AI in CRISPR-based genetic editing to create crops that are more resilient and nutritious.
@@ -181,9 +181,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #10. **AI for Agricultural Finance**
+## [Direction #10. **AI for Agricultural Finance**](../README_DIRECTION10.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Credit Scoring**: AI models predict a farmer’s creditworthiness based on crop yields, weather data, and market trends.
   - **Task**: **Prediction**
 - **Insurance Models**: AI develops crop insurance models based on environmental factors to ensure better coverage and pricing.
@@ -199,9 +199,9 @@ Our team is keen to explore the transformative applications of AI across various
 
 ---
 
-## Direction #11. **AI in Aquaculture**
+## [Direction #11. **AI in Aquaculture**](../README_DIRECTION11.md)
 
-### Use Cases:
+### Use Cases (Examples):
 - **Fish Health Monitoring**: AI systems monitor fish behavior and water quality, optimizing feeding schedules and detecting diseases.
   - **Task**: **Anomaly Detection, Prediction**
 - **Feeding Optimization**: AI adjusts feeding schedules to optimize fish growth and minimize waste.
