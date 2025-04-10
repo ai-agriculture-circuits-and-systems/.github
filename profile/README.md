@@ -8,7 +8,7 @@ Our team is keen to explore the transformative applications of AI across various
  
 ---
 
-## Direction #1. **Precision Farming and Resource Optimization**
+## [Direction #1. **Precision Farming and Resource Optimization](.github/blob/main/README_DIRECTION1.m)**
 
 ### Use Cases:
 - **Yield Prediction**: AI models analyze climate, soil, and crop data to predict optimal yields.
