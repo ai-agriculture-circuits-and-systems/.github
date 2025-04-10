@@ -24,7 +24,7 @@ Our team is keen to explore the transformative applications of AI across various
 - **Weather Data**: FAOSTAT, USDA NASS
 
 ### Tools:
-- **FarmVibes.AI**: A toolkit that fuses multi-modal data (satellite, weather, drone) to provide insights for farm management.
+- [**FarmVibes.AI**](../README_FARMVIBES.md): A toolkit that fuses multi-modal data (satellite, weather, drone) to provide insights for farm management.
 - **John Deere's Autonomous Tractors**: AI-powered tractors and sprayers for precision planting and resource use.
 
 ---
