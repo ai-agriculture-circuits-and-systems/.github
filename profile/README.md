@@ -141,7 +141,7 @@ Our team is keen to explore the transformative applications of AI across various
 - **Image Data**: For crop monitoring and automation.
 
 ### Tools:
-- **FarmBot**: An autonomous farming robot for small-scale farming.
+- **FarmBot**: An autonomous farming robot for small-scale farming. [https://farm.bot/](https://farm.bot/)
 - **John Deere Autonomous Tractors**: Fully autonomous machinery for large-scale farming.
 
 ---
