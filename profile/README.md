@@ -84,7 +84,7 @@ Our team is keen to explore the transformative applications of AI across various
 - **Logistics Data**: Route optimization using AI to ensure faster, cost-effective delivery of perishable goods.
 
 ### Tools:
-- **Solinftec**: AI for managing logistics, including real-time crop and farm machinery data.
+- **Solinftec**: AI for managing logistics, including real-time crop and farm machinery data. [https://www.solinftec.com/en-us/](https://www.solinftec.com/en-us/)
 - **AI-powered Sorting and Grading**: Computer vision systems to sort produce by quality in packing facilities.
 
 ---
